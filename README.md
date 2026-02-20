@@ -12,7 +12,7 @@ You also need to have a postgresdatabase (obviously).
 
 You can run the script as a normal python script, or you can run it as a container image and run it in docker / kubernetes.
 
-## Test in a local kubernetes cluster
+## Setup
 
 1. Setup the required environment variables and script variables (see top of fetch_last_ACS_scan.py)
 
